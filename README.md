@@ -18,7 +18,7 @@ We currently do not have a published version of the plugin. Please follow these 
 * [Actions on Google Console](https://console.actions.google.com) 
 * Dialogflow
 
-##Authors
+## Authors
 * **Justine Chen** -  [justineechen](https://github.com/justineechen)
 
 * **Lana El Sanyoura** -  [lanaelsanyoura](https://github.com/lanaelsanyoura)
